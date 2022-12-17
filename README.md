@@ -1,5 +1,5 @@
 
-# Density-Based-Automatic-Light-Intensity-Control-Syste# Density Based Automatic Light Intensity Control System
+# Density Based Automatic Light Intensity Control System
 
 A lighting System that adjusts the brightness as per the amount or people at a place.
 
