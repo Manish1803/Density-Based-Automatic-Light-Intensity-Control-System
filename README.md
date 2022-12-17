@@ -1,14 +1,14 @@
 
 # Density Based Automatic Light Intensity Control System
 
-A lighting System that adjusts the brightness as per the amount or people at a place.
+A lighting System that adjusts the brightness as per the number of people at a place.
 
 The core concept is using hall effect sensors to detect the
 magnetic field from the devices people carry or magnets
 embedded in ID cards, and wrist bands.
 
 The project won the first prize in the E-Ganesha project organized
-by the department of E&TC in the second year.
+by the department of E&TC in the Third year.
 
 ## Advantages
 
