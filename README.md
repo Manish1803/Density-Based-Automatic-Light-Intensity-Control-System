@@ -59,5 +59,5 @@ The project uses a ESP32 microcontroller so clone the repository and open the co
 
 - [Manish Patil](https://github.com/Manish1803)
 - [Aniket Jagtap](https://github.com/aniketajagtap)
-- Sushant Shelar
+- [Sushant Shelar](https://github.com/sushant6925)
 - Isha Pawar
